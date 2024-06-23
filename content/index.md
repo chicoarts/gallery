@@ -1,6 +1,14 @@
 ---
-title: Welcome to Quartz
+title: Welcome!
 ---
+[[Recent Artworks]]
+[[Current]]
+[[Contests]]
+[[Events]]
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Tags:
+#yr2011
+
+Other:
+[[Pending]]
+[[Cancelled]]
