@@ -18,8 +18,8 @@ Other:
 
 [[Cancelled]]
 %%
-- [ ] ▶️ https://youtu.be/3my06DUnApM `Manage Multiple Python Versions with PyEnv` ![[https://i.ytimg.com/vi/3my06DUnApM/maxresdefault.jpg|50x50]] %% fold %% https://www.youtube.com/@NeuralNine
- <iframe height=360 width=640 src=https://www.youtube.com/embed/3my06DUnApM></iframe>
+- [ ] ▶️ https://youtu.be/3my06DUnApM `Manage Multiple Python Versions with PyEnv` ![Test|50x50](https://i.ytimg.com/vi/3my06DUnApM/maxresdefault.jpg) %% fold %% https://www.youtube.com/@NeuralNine
+- <iframe height=360 width=640 src=https://www.youtube.com/embed/3my06DUnApM></iframe>
  ...
 
 %%[[tags/yr2011]]%%
