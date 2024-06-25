@@ -1,8 +1,8 @@
 ---
 title: Welcome!
 ---
-<a href="https://chicoarts.github.io/gallery/index.xml" target="_blank" title="Subscribe to our RSS feed">
-    <img src="https://rss.com/blog/wp-content/uploads/2019/10/social_style_3_rss-512-1.png" alt="RSS Feed" style="width: 24px; height: 24px;">
+<a href="https://chicoarts.github.io/gallery/index.xml" target="_blank" title="Subscribe to the RSS feed">
+    <img src="https://img.icons8.com/pulsar-color/48/rss.png" alt="RSS Feed" style="width: 24px; height: 24px;">
 </a>
 
 [[Recent Artworks]]
