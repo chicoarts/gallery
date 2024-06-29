@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "chicoarts.github.io/gallery",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "!(Media)**/!(*.md)", "!(*.md)"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
